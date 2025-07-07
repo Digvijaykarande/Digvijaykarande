@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Digvijay Karande<br>I'm a passionate Full-Stack Java Developer with a strong foundation in building dynamic and responsive web applications. I specialize in:<br><br>Backend: Java, Spring Boot<br>Frontend: React, HTML, CSS, JavaScript<br>My goal is to craft seamless and efficient solutions that bridge the gap between front-end design and back-end architecture. I'm always eager to learn new technologies and enhance my skills to deliver high-quality software.<br><br>🌱 Currently Learning<br>Advanced Spring Boot<br>DataBase Management <br>Rest API's<br><br>💻 Currently Working On<br>virtual study platform for Students 
+👋 Hi there! I'm Digvijay Karande<br>I'm a passionate Full-Stack Java Developer with a strong foundation in building dynamic and responsive web applications. I specialize in:<br><br>Backend: Java, Spring Boot, MERN STACK <br>Frontend: React, HTML, CSS, JavaScript<br>My goal is to craft seamless and efficient solutions that bridge the gap between front-end design and back-end architecture. I'm always eager to learn new technologies and enhance my skills to deliver high-quality software.<br><br>🌱 Currently Learning<br>Advanced Spring Boot<br>DataBase Management <br>Rest API's<br><br>💻 Currently Working On<br>virtual study platform for Students 
 
 
 ## 🌐 Socials:
